@@ -1,0 +1,12 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&family=Great+Vibes&family=Mukta:wght@300&family=Oswald:wght@200;400&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Andada+Pro&family=Mukta:wght@300&family=Oswald:wght@200;400&family=Raleway:ital,wght@0,100;0,200;0,300;0,400;1,100;1,200;1,300;1,700;1,800&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;1,100&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base{
+  html{
+    font-family: 'Raleway' , sans-serif;
+  }
+}
